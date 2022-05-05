@@ -2,6 +2,6 @@ import React from 'react'
 
 export const MybRo = () => {
   return (
-    <div>MybRo</div>
+    <a className=' text-current text-xl font-bold text-zinc-400'>MybRo</a>
   )
 }
